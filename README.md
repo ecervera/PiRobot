@@ -13,13 +13,15 @@ See [BrickPi Tutorials and Documentation](https://www.dexterindustries.com/brick
 
 ### OpenCV
 
-`cd ~/Desktop/BrickPi+/Software/BrickPi_Python/Project/openCV
-sudo ./install.sh`
+`cd ~/Desktop/BrickPi+/Software/BrickPi_Python/Project/openCV`
+
+`sudo ./install.sh`
 
 ### Jupyter
 
-`pip install --user --upgrade pip
-sudo pip install jupyter`
+`pip install --user --upgrade pip`
+
+`sudo pip install jupyter`
 
 ## Usage
 
